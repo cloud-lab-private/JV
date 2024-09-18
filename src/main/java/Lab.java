@@ -17,4 +17,8 @@ public class Lab {
     public String sayHello(){
         return "change me";
     }
+
+    public String sayBye(){
+        return "change me";
+    }
 }
